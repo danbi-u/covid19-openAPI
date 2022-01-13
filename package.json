@@ -1,0 +1,16 @@
+{
+  "name": "covid19-openapi",
+  "version": "1.0.0",
+  "description": "Corona 19 Vaccination Center inquiry service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbi-u/covid19-openAPI.git"
+  },
+  "author": "danb-u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbi-u/covid19-openAPI/issues"
+  },
+  "homepage": "https://github.com/danbi-u/covid19-openAPI#readme"
+}
